@@ -301,7 +301,7 @@ section.container>form.flip>.front {
 
 /* letter */
 #letter {
-	background: #fafafa;
+	background: #fafafa url("../img/Final_EN.png");
 	width: 90%;
 	height: 95%;
 	position: absolute;
